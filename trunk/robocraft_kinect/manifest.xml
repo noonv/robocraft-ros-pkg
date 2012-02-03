@@ -1,0 +1,12 @@
+<package>
+  <description brief="Working with Microsoft Kinect sensor"></description>
+  <author>Vladimir Savinov</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <depend package="roscpp"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+  <depend package="image_transport"/>
+  <depend package="openni"/>
+  <depend package="pointcloud_to_laserscan"/>
+</package>
