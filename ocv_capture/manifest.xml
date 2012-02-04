@@ -1,0 +1,10 @@
+<package>
+  <description brief="Videocapture via OpenCV"></description>
+  <author>Vladimir Savinov</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <depend package="roscpp"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+  <depend package="image_transport"/>
+</package>
