@@ -1,7 +1,6 @@
 robocraft-ros-pkg is collection of software resources shared towards helping users new to robotics and Willow Garage's Robot Operating System get their robots up and moving as quickly as possible.
 
-
-http://ros.org
+* http://ros.org
 * ROS - Robot Operating System
 http://robocraft.ru/blog/robosoft/721.html
 * Что же такое ROS?
